@@ -1,7 +1,7 @@
 ### Hi, there! 👋
 
 - 🔭 I’m currently writing Python and JavaScript
-- 🌱 I’m currently learning C, Java, C and C++
+- 🌱 I’m currently learning C, Java, and C++
 - 👯 I’m looking to collaborate on some Python projects
 - 💬 Ask me about Python
 - 📫 How to reach me: marcoelkashy@gmail.com
